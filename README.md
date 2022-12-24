@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **ad5658@nyu.edu**
 
-- ⚡  **Actively seeking Summer internships in Software Development and Data Science.**
+- ⚡  **Actively seeking Full time roles in Software Development and Data Science.**
 ##
 ![](https://komarev.com/ghpvc/?username=takhilabhinav&color=green)
 
